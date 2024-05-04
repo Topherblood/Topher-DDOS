@@ -1,6 +1,4 @@
-git init
-git add .
-git commit -m "Premier commit : from datetime import datetime
+from datetime import datetime
 import socket
 import threading
 import urllib.request
@@ -85,6 +83,4 @@ def ProxyAttack():
 
 
 url = input(f'{B}ENTER URL OR IP ADDRESS : ')
-linked()"
-git remote add origin <https://github.com/Topherblood/Topher-DDOS.git>
-git push -u origin master
+linked()
