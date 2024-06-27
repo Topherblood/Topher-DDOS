@@ -4,6 +4,7 @@ import threading
 import urllib.request
 import argparse
 import random
+
 from user_agent import generate_user_agent
 from urllib.request import ProxyHandler, build_opener
 from pyfiglet import Figlet
