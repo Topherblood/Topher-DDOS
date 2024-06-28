@@ -1,0 +1,2 @@
+echo "user-agents" > requirements.txt
+echo "pyfiglet" >> requirements.txt
