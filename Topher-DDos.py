@@ -21,11 +21,11 @@ def linked():
     sg = input(
         f'''
 ═════════════════════════════════
-{Z}[1] Attack withOut Proxy -TopherDDOS
+{Z}[1] Attack sans Proxy -TopherDDOS
 ═════════════════════════════════
-{S}[2] Attack With Paroxy - TopherDDOS 
+{S}[2] Attack avec Proxy - TopherDDOS 
 ═════════════════════════════════
-{S}[{S}⌯{S}]{F}ChooSe Number {F}» '''
+{S}[{S}⌯{S}]{F}Choisis un chiffre Choisis un chiffre.{F}» '''
     )
     if sg == '1':
         for _ in range(500):
