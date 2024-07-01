@@ -1,11 +1,11 @@
- Ce script est un outil puissant qui peut causer des dommages considérables s’il est mal utilisé. Il est conçu par Topher, membre de la région Dedsec  pour des démonstrations de sécurité et des tests en environnement contrôlé avec l’autorisation explicite des propriétaires des systèmes concernés. L’utilisation non autorisée de ce script pour attaquer des systèmes informatiques est illégale et peut entraîner des conséquences juridiques graves.
+❌Ce script est un outil puissant qui peut causer des dommages considérables s’il est mal utilisé. Il est conçu par Topher, membre de la région Dedsec  pour des démonstrations de sécurité et des tests en environnement contrôlé avec l’autorisation explicite des propriétaires des systèmes concernés. L’utilisation non autorisée de ce script pour attaquer des systèmes informatiques est illégale et peut entraîner des conséquences juridiques graves.
 
 Soyez responsables et éthiques dans vos actions.
 
 
 
 
-# INSTALLATION
+# 🔰INSTALLATION🔰
 
  apt update
 
