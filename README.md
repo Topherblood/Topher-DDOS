@@ -5,8 +5,6 @@ Soyez responsables et éthiques dans vos actions.
 
 
 
-
-
  INSTALLATION
 
  apt update
