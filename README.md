@@ -3,3 +3,24 @@
 Soyez responsables et éthiques dans vos actions.
 
 — Topher, membre de la région Dedsec
+
+
+Installation
+
+apt update
+
+apt upgrade
+
+apt install git
+
+pkg install python
+
+pip install user_agent
+
+pip install pyfiglet
+
+git clone https://github.com/Topherblood/Topher-DDOS
+
+cd Topher-DDOS
+
+python Topher-DDos.py
