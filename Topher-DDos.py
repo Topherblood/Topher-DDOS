@@ -25,7 +25,7 @@ def linked():
 ═════════════════════════════════
 {S}[2] Attack avec Proxy - TopherDDOS 
 ═════════════════════════════════
-{S}[{S}⌯{S}]{F}Choisis un chiffre Choisis un chiffre.{F}» '''
+{S}[{S}⌯{S}]{F}Choisis un chiffre.{F}» '''
     )
     if sg == '1':
         for _ in range(500):
