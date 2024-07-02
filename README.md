@@ -25,4 +25,4 @@ cd Topher-DDOS
 
 python Topher-DDos.py
 
-https://IMG-20240630-WA0317.jpg
+https://ibb.co/NCKZrN8
