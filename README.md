@@ -25,4 +25,4 @@ cd Topher-DDOS
 
 python Topher-DDos.py
 
-![Screenshot_20240630-204822.jpg](https://github.com/Topherblood/Topher-DDOS/assets/162853344/f8fbf751-933e-45e0-8f38-f9a3e39b4c5c)
+![Screenshot_20240630-204822.jpg](https://github.com/Topherblood/Topher-DDOS/assets/162853344/aa9e496a-00dd-4017-b54d-d112eecc3725)
