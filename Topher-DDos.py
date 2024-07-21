@@ -21,9 +21,9 @@ def linked():
     sg = input(
         f'''
 ═════════════════════════════════
-{Z}[1] Attack sans Proxy -TopherDDOS
+{Z}[1] Attack sans Proxy - Dedsec
 ═════════════════════════════════
-{S}[2] Attack avec Proxy - TopherDDOS 
+{S}[2] Attack avec Proxy - Dedsec
 ═════════════════════════════════
 {S}[{S}⌯{S}]{F}Choisis un chiffre.{F}» '''
     )
